@@ -1,0 +1,45 @@
+print('hola')
+c<-2,3
+c<-2
+c
+getwd()
+read.csv("mydata.csv")
+ls
+ls()
+myfunction <- function(x){#
+	x <-rnorm(100)#
+	mean(y)#
+}
+myfunction(10)
+myfunction <- function(x){#
+	x <-rnorm(100)#
+	mean(y)#
+}myfunction <- function(x){#
+	y <-rnorm(100)#
+	mean(y)#
+}
+myfunction <- function(x){#
+	y <-rnorm(100)#
+	mean(y)#
+}
+myfunction <- function(x){#
+	y <-rnorm(100)#
+	mean(y)#
+}
+myfunction(10)
+ls
+getwd()
+cd folders
+getwd()
+dir()
+sourc("myfunction.R")
+source("myfunction.R")
+ls()
+source("myfunction.R")
+ls()
+second(4)
+second(4)
+second(4)
+second(4)
+second(4)*10
+second(4:10)
