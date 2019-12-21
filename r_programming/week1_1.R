@@ -28,3 +28,15 @@ print(complex_vector)
 x <- vector("numeric", length=10)
 print(x)
 class(x)
+
+#Mezclando objetos
+y <- c(1.7,"a")
+print(c(y,class(y)))#todos lo elementos se vuelve una misma clase, por la 'coercion'
+
+#Coercion Explicita
+x <- 0:6
+print(class(x))
+print(x)
+print(as.numeric(x))
+print(as.logical(x)) # solo cero es Falso
+print(as.character(x)) #todos los elementos se vuelven strings
